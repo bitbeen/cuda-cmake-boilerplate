@@ -1,9 +1,11 @@
-#NOTICE
+# NOTICE
+
 ### this project is a boilerplate for CMAKE CPP invoke cuda code in windows 10
+
 ### 这是cmake项目脚手架，该脚手架实现在C++语言中调用CUDA代码
 
+# env
 
-#env
 ```
 -- The C compiler identification is MSVC 19.29.30040.0
 -- The CXX compiler identification is MSVC 19.29.30040.0
